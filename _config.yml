@@ -3,9 +3,9 @@ baseurl: ""
 url: "https://nikosbosse.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Test Site                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+title: Nikos Bosse                                    # site's title
+description: "Nikos Bosse's personal website"      # used by search engines
+# avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
